@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="text">www.google.com</string>
+    <string name="Naver">www.naver.com</string>
+</resources>
